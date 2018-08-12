@@ -1,7 +1,11 @@
 let Index = () => {
-    console.log('aaaaaa');
-
-
+    
+    let Test = () => {
+        console.log("test");
+    }
+    
+    console.log('aaaaaa');    
+    Test();
 }
 
 Index()
