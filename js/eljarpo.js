@@ -1,11 +1,5 @@
 let Index = () => {
-    
-    let Test = () => {
-        console.log("test");
-    }
-    
-    console.log('aaaaaa');    
-    Test();
+   
 }
 
 Index()
